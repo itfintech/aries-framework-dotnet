@@ -11,6 +11,7 @@ using Hyperledger.Aries.Features.IssueCredential;
 using Hyperledger.Aries.Features.OperationCompleted;
 using Hyperledger.Aries.Features.PresentProof;
 using Hyperledger.Aries.Features.ProblemReport;
+using Hyperledger.Aries.Features.RevocationNotification;
 using Hyperledger.Aries.Features.Statistic;
 using Hyperledger.Aries.Ledger;
 using Hyperledger.Aries.Payments;
