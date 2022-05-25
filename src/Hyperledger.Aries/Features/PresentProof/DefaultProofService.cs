@@ -23,11 +23,6 @@ using Hyperledger.Indy.LedgerApi;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using Hyperledger.Aries.Features.DidExchange;
-using Hyperledger.Aries.Features.IssueCredential;
-using Hyperledger.Aries.Configuration;
-using Hyperledger.Aries.Storage;
-using Hyperledger.Aries.Decorators.Service;
 using Hyperledger.Aries.Attachments.Abstractions;
 using Hyperledger.Aries.Attachments;
 
